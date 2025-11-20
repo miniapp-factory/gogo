@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Coin Rush 2048";
+export const description = "Coin Rush 2048 is a simple but addictive puzzle game played on a 4×4 grid. Each turn, a new tile with the value 2 or 4 appears in an empty cell. You can slide all tiles up, down, left, or right using the onscreen arrow buttons. When two tiles with the same number crash into each other, they merge into a single tile whose value is the sum of both tiles. Your goal is to keep combining tiles to create bigger and bigger numbers, eventually reaching the legendary 2048 tile or even higher. Every move must be chosen carefully, because if the grid fills up and no more moves are possible, the game ends. Smart planning, quick thinking, and a bit of luck are needed to survive. Chase a new high score, challenge your friends, and see how long you can keep the board alive in Coin Rush 2048!";
 export const url = process.env.NEXT_PUBLIC_URL;
